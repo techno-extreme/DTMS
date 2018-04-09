@@ -1,0 +1,6 @@
+c:\users\tonderaim\documents\visual studio 2013\Projects\DTMS\DTMS\bin\DTMS.dll.config
+c:\users\tonderaim\documents\visual studio 2013\Projects\DTMS\DTMS\bin\DTMS.dll
+c:\users\tonderaim\documents\visual studio 2013\Projects\DTMS\DTMS\bin\DTMS.pdb
+c:\users\tonderaim\documents\visual studio 2013\Projects\DTMS\DTMS\obj\Debug\DTMS.csprojResolveAssemblyReference.cache
+c:\users\tonderaim\documents\visual studio 2013\Projects\DTMS\DTMS\obj\Debug\DTMS.dll
+c:\users\tonderaim\documents\visual studio 2013\Projects\DTMS\DTMS\obj\Debug\DTMS.pdb
